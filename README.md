@@ -8,3 +8,16 @@ This course has been delivered in collaboration with [valgrAI](https://valgrai.e
 
 ## Session 1
 - Lecture: Introduction to Knowledge Graphs
+
+## Session 2
+- Lecture: Modelling Ontologies with OWL (semantics and reasoning)
+
+## Session 3
+- Lecture: From Tabular Data to Knowledge Graphs
+
+## Session 4
+- Lecture: Querying Knowledge Graphs and Graph Database Solutions
+
+## Session 5
+- Lecture: Knowledge Graphs and Language Models
+

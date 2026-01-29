@@ -5,3 +5,6 @@ This course is a tailored version of [City's Semantic Web Technologies and Knowl
 The target audience is industry professionals interested in acquiring basic skills about knowledge graphs.
 
 This course has been delivered in collaboration with [valgrAI](https://valgrai.eu/en/)  (Valencian Graduate School and Research Network of Artificial Intelligence).
+
+## Session 1
+- Lecture: Introduction to Knowledge Graphs

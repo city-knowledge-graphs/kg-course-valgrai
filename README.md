@@ -21,6 +21,7 @@ This course has been delivered in collaboration with [valgrAI](https://valgrai.e
 
 ## Session 4
 - Lecture: From Tabular Data to Knowledge Graphs
+<!--- Lab session: FAIR principles ontos-->
 
 ## Session 5
 - Lecture: Querying Knowledge Graphs and Graph Database Solutions

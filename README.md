@@ -17,7 +17,7 @@ This course has been delivered in collaboration with [valgrAI](https://valgrai.e
 - Recording ([Spanish (618Mb)](https://drive.google.com/file/d/1OKWYYBonz1LXGEIQ6Bfa_aLs2-M7BPwB/view?usp=sharing))
 
 ## Session 3
-- Lecture: RDFS Semantics, Reasoning and OWL 2 Profiles ([slides]())
+- Lecture: RDFS Semantics, Reasoning and OWL 2 Profiles ([slides](https://github.com/city-knowledge-graphs/kg-course-valgrai/blob/main/lectures/kg-course-valgrai-session-3-semantics-slides.pdf))
 - Lab session. Reasoning with RDFS Semantics and OWL 2 RL ([lab notes](https://github.com/city-knowledge-graphs/kg-course-valgrai/blob/main/labs/kg-course-valgrai-lab-session-3-semantics.pdf))
 
 

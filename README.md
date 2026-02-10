@@ -13,16 +13,17 @@ This course has been delivered in collaboration with [valgrAI](https://valgrai.e
 
 ## Session 2
 - Lecture: Modelling Ontologies with OWL ([slides](https://github.com/city-knowledge-graphs/kg-course-valgrai/blob/main/lectures/kg-course-valgrai-session-2-ontologies-slides.pdf))
-- Lab session: Modelling with Protégé ([lab notes](https://github.com/city-knowledge-graphs/kg-course-valgrai/blob/main/labs/kg-course-valgrai-lab-session-2-ontologies.pdf)) ([protege demo](https://drive.google.com/file/d/14ZtzCVIwfmGwEbaW8Aoa9HRu8BeHvjuw/view)).
+- Lab session: Modelling with Protégé ([lab notes (with solutions)](https://github.com/city-knowledge-graphs/kg-course-valgrai/blob/main/labs/kg-course-valgrai-lab-session-2-ontologies.pdf)) ([protege demo](https://drive.google.com/file/d/14ZtzCVIwfmGwEbaW8Aoa9HRu8BeHvjuw/view)).
 - Recording ([Spanish (618Mb)](https://drive.google.com/file/d/1OKWYYBonz1LXGEIQ6Bfa_aLs2-M7BPwB/view?usp=sharing))
 
 ## Session 3
-- Lecture: RDFS Semantics, Reasoning and OWL 2 Profiles
+- Lecture: RDFS Semantics, Reasoning and OWL 2 Profiles ([slides]())
+- Lab session. Reasoning with RDFS Semantics and OWL 2 RL ([lab notes](https://github.com/city-knowledge-graphs/kg-course-valgrai/blob/main/labs/kg-course-valgrai-lab-session-3-semantics.pdf))
 
 
 ## Session 4
 - Lecture: From Tabular Data to Knowledge Graphs
-<!--- Lab session: FAIR principles ontos-->
+<!--- Lab session: FAIR principles ontos, naming-->
 
 ## Session 5
 - Lecture: Querying Knowledge Graphs and Graph Database Solutions

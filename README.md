@@ -23,7 +23,7 @@ This course has been delivered in collaboration with [valgrAI](https://valgrai.e
 
 ## Session 4
 - Synchronous lab session.
-- Presentation of coursework part 1 (ontology modelling).
+- Presentation of [coursework part 1 (ontology modelling)](https://github.com/city-knowledge-graphs/kg-course-valgrai/blob/main/coursework/kg-course-valgrai-coursework-part1.pdf).
 
 ## Session 5 (in person)
 - Lecture: From Tabular Data to Knowledge Graphs

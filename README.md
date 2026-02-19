@@ -28,6 +28,7 @@ This course has been delivered in collaboration with [valgrAI](https://valgrai.e
 ## Session 5 (in person)
 - Lecture: From Tabular Data to Knowledge Graphs
 <!--- Lab session: FAIR principles ontos, naming-->
+<!--- Lab session: upload pizza-restaurants as example -->
 
 ## Session 6  (in person)
 - Lecture: Querying Knowledge Graphs and Graph Database Solutions

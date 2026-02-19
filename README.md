@@ -22,13 +22,17 @@ This course has been delivered in collaboration with [valgrAI](https://valgrai.e
 - Recording (from City's module): Video 1 - [English (234Mb)](https://drive.google.com/file/d/1QIH-KI61UIkCymHhPfq6KwvtauPHWPJJ/view?usp=sharing), Video 2 - [English (335Mb)](https://drive.google.com/file/d/1Pm4XnenGnV0ugVlGb1j-bliAoqI1HO5w/view?usp=sharing)
 
 ## Session 4
+- Synchronous lab session.
+- Presentation of coursework part 1 (ontology modelling).
+
+## Session 5 (in person)
 - Lecture: From Tabular Data to Knowledge Graphs
 <!--- Lab session: FAIR principles ontos, naming-->
 
-## Session 5
+## Session 6  (in person)
 - Lecture: Querying Knowledge Graphs and Graph Database Solutions
 <!--- Lab session: SPARQL, Visualization-->
 
-## Session 6
+## Session 7
 - Lecture: Knowledge Graphs and Language Models
 

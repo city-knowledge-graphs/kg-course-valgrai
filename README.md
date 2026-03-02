@@ -21,19 +21,19 @@ This course has been delivered in collaboration with [valgrAI](https://valgrai.e
 - Lab session. Reasoning with RDFS Semantics and OWL 2 RL ([lab notes (with solutions)](https://github.com/city-knowledge-graphs/kg-course-valgrai/blob/main/labs/kg-course-valgrai-lab-session-3-semantics.pdf))
 - Recording (from City's module): Video 1 - [English (234Mb)](https://drive.google.com/file/d/1QIH-KI61UIkCymHhPfq6KwvtauPHWPJJ/view?usp=sharing), Video 2 - [English (335Mb)](https://drive.google.com/file/d/1Pm4XnenGnV0ugVlGb1j-bliAoqI1HO5w/view?usp=sharing)
 
-## Session 4
+## Lab Session
 - Synchronous lab session.
 - Presentation of [coursework part 1 (ontology modelling)](https://github.com/city-knowledge-graphs/kg-course-valgrai/blob/main/coursework/kg-course-valgrai-coursework-part1.pdf).
 
-## Session 5 (in person)
+## Session 4 (in person)
 - Lecture: From Tabular Data to Knowledge Graphs
 <!--- Lab session: FAIR principles ontos, naming-->
 <!--- Lab session: upload pizza-restaurants as example -->
 
-## Session 6  (in person)
+## Session 5  (in person)
 - Lecture: Querying Knowledge Graphs and Graph Database Solutions
 <!--- Lab session: SPARQL, Visualization-->
 
-## Session 7
+## Session 6
 - Lecture: Knowledge Graphs and Language Models
 

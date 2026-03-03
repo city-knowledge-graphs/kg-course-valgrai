@@ -43,7 +43,7 @@ class CEA_Evaluator:
         f1 = (2 * precision * recall) / (precision + recall) if (precision + recall) > 0 else 0.0
         main_score = f1
         secondary_score = precision
-        print('%.3f %.3f %.3f' % (f1, precision, recall))
+        print('F1-score: %.3f, Precision: %.3f, Recall: %.3f' % (f1, precision, recall))
 
         _result_object = {
             "score": main_score,

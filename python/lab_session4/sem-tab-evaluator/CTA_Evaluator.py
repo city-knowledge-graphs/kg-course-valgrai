@@ -52,8 +52,8 @@ class CTA_Evaluator:
     main_score = f1
     secondary_score = precision
 
-    print('%.3f %.3f %.3f' % (f1, precision, recall))
-
+    #print('%.3f %.3f %.3f' % (f1, precision, recall))
+    print('F1-score: %.3f, Precision: %.3f, Recall: %.3f' % (f1, precision, recall))
     _result_object = {
         "score": main_score,
         "score_secondary": secondary_score

@@ -26,7 +26,8 @@ This course has been delivered in collaboration with [valgrAI](https://valgrai.e
 - Presentation of [coursework part 1 (ontology modelling)](https://github.com/city-knowledge-graphs/kg-course-valgrai/blob/main/coursework/kg-course-valgrai-coursework-part1.pdf).
 
 ## Session 4 (in person)
-- Lecture: From Tabular Data to Knowledge Graphs
+- Lecture: From Tabular Data to Knowledge Graphs ([slides](https://github.com/city-knowledge-graphs/kg-course-valgrai/blob/main/lectures/kg-course-valgrai-session-4-tabular-to-kg-slides.pdf))
+- Lab session. Exposing Tabular Data as an RDF-based Knowledge Graph ([lab notes](https://github.com/city-knowledge-graphs/kg-course-valgrai/blob/main/labs/kg-course-valgrai-lab-session-4-tabular-to-kg.pdf))
 <!--- Lab session: FAIR principles ontos, naming-->
 <!--- Lab session: upload pizza-restaurants as example -->
 

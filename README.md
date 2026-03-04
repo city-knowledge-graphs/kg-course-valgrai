@@ -32,7 +32,8 @@ This course has been delivered in collaboration with [valgrAI](https://valgrai.e
 <!--- Lab session: upload pizza-restaurants as example -->
 
 ## Session 5  (in person)
-- Lecture: Querying Knowledge Graphs and Graph Database Solutions
+- Lecture: Querying Knowledge Graphs and Graph Database Solutions ([slides](https://github.com/city-knowledge-graphs/kg-course-valgrai/blob/main/lectures/kg-course-valgrai-session-5-sparql-graphdbs-slides.pdf))
+- Lab session. SPARQL and GraphDB ([lab notes](https://github.com/city-knowledge-graphs/kg-course-valgrai/blob/main/labs/kg-course-valgrai-lab-session-5-sparql-graphdb.pdf))
 <!--- Lab session: SPARQL, Visualization-->
 
 ## Session 6

@@ -1,5 +1,6 @@
 '''
 Created on 19 Mar 2019
+Modified in March 2026
 
 @author: ejimenez-ruiz
 '''
@@ -40,6 +41,10 @@ class Lookup(object):
             req = request.Request(url)
             #Customize headers. For example dbpedia lookup returns xml by default
             req.add_header('Accept', 'application/json')
+            
+            #Required by Wikidata (2026): fixed in 2026 thanks to an interaction with chat-gpt
+            req.add_header('User-Agent', 'KGs-at-City/1.0 (ernesto.jimenez-ruiz@city.ac.uk)"')
+            
             
             
             #print(request.urlopen(req).read())

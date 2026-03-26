@@ -27,15 +27,16 @@ This course has been delivered in collaboration with [valgrAI](https://valgrai.e
 
 ## Session 4 (in person)
 - Lecture: From Tabular Data to Knowledge Graphs ([slides](https://github.com/city-knowledge-graphs/kg-course-valgrai/blob/main/lectures/kg-course-valgrai-session-4-tabular-to-kg-slides.pdf))
-- Lab session. Exposing Tabular Data as an RDF-based Knowledge Graph ([lab notes](https://github.com/city-knowledge-graphs/kg-course-valgrai/blob/main/labs/kg-course-valgrai-lab-session-4-tabular-to-kg.pdf))
+- Lab session. Exposing Tabular Data as an RDF-based Knowledge Graph ([lab notes (with solutions)](https://github.com/city-knowledge-graphs/kg-course-valgrai/blob/main/labs/kg-course-valgrai-lab-session-4-tabular-to-kg.pdf))
 <!--- Lab session: FAIR principles ontos, naming-->
 <!--- Lab session: upload pizza-restaurants as example -->
 
 ## Session 5  (in person)
 - Lecture: Querying Knowledge Graphs and Graph Database Solutions ([slides](https://github.com/city-knowledge-graphs/kg-course-valgrai/blob/main/lectures/kg-course-valgrai-session-5-sparql-graphdbs-slides.pdf))
-- Lab session. SPARQL and GraphDB ([lab notes](https://github.com/city-knowledge-graphs/kg-course-valgrai/blob/main/labs/kg-course-valgrai-lab-session-5-sparql-graphdb.pdf))
+- Lab session. SPARQL and GraphDB ([lab notes (with solutions)](https://github.com/city-knowledge-graphs/kg-course-valgrai/blob/main/labs/kg-course-valgrai-lab-session-5-sparql-graphdb.pdf))
 <!--- Lab session: SPARQL, Visualization-->
 
 ## Session 6
-- Lecture: Knowledge Graphs and Language Models
+- Lecture: Knowledge Graphs and Language Models ([slides](https://github.com/city-knowledge-graphs/kg-course-valgrai/blob/main/lectures/kg-course-valgrai-session-6-kg-llms-slides.pdf))
+- Lab session. Knowledge Graphs and Language Models ([lab notes](https://github.com/city-knowledge-graphs/kg-course-valgrai/blob/main/labs/kg-course-valgrai-lab-session-6-kg-llms.pdf))
 
